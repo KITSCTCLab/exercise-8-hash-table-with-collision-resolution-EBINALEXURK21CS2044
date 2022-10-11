@@ -1,7 +1,7 @@
 import re
 
 def display_hash(hashtable) -> None:
-    for element in range(len(hashtable')):
+    for element in range(len(hashtable)):
         print(f"{element}", end=" ")
         values = hashtable[element]
         for value in values:
